@@ -14,8 +14,8 @@ The dataset is organised such that each of the two female actor and their emotio
 <li>neutral
 
 # Libraries
-pandas
-matplotlib
-keras
-tensorflow
-librosa
+<li>pandas
+<li>matplotlib
+<li>keras
+<li>tensorflow
+<li>librosa
